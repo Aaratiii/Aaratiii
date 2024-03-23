@@ -1,7 +1,8 @@
-
 <h1 align="center">Hey👋 I'm Aarati Kharel</h1>
 
 <img align="right" alt="coding" width="250" src="https://i.pinimg.com/564x/1a/ea/ac/1aeaac39c08f9648e085b7152da7de9c.jpg">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaratiii&label=Profile%20views&color=0e75b6&style=flat" alt="aaratiii" /> </p>
 
 - 🌱 I’m currently learning **ReactJs**
 
