@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarati Kharel</h1>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47ugnsqrxx30xf4ajm88bbe3g71n998k49bvhxv4md&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/dhkCwaxONDcAAAAd/kano-uutobo.gif">
 
 
 - 🌱 I’m currently learning **Python**
@@ -8,7 +8,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>img
 <p align="left">
 <a href="https://www.linkedin.com/in/aarati-kharel-413a2729a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiral-blon" height="30" width="40" /></a>  
 </p>
